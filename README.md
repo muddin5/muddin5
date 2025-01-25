@@ -72,7 +72,6 @@ the majority of the sites I plan to use will be free so nobody has to face finan
 
 ### **Cybersecurity**
 - Penetration Testing Tools: WireShark
-- Digital Forensics
 - Cryptography: OpenSSL, Hash Functions, Symmetric and Asymmetric Encryption
 
 ### **System Administration**
