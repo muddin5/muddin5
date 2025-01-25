@@ -50,6 +50,7 @@ the majority of the sites I plan to use will be free so nobody has to face finan
 
 **Cybersecurity**
 - TryHackMe
+- Cybrary 
 
 **General Certificates**
 - LinkedIn Learning (Not Free, using university email)
