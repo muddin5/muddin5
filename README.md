@@ -5,7 +5,7 @@ Computer Science Undergrad | Aspiring Developer
 
 Education:
 
-- Fordham University, Bronx NY -- *On Track to graduate Fall 2027*
+- Fordham University, Bronx NY -- *On Track to graduate Fall 2026*
 - *Hoping to also earn my Cybersecurity Masters as well*
 
 The Bronx High School of Science -- Class of 2023
